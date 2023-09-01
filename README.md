@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @mohammedadiltaj
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-mohammedadiltaj/mohammedadiltaj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Big data engineer 🚀 
+Transforming raw data into actionable insights 📊 
+Python, Airflow, Docker, Kubernetes, DBT, Ansible, GCP
+ETL and real-time streaming aficionado 
+Passionate about building scalable data pipelines 🛠️
